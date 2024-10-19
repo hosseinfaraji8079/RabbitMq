@@ -1,0 +1,11 @@
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.deps.json
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.dll
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\bin\Debug\net8.0\EventBus.Messages.pdb
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.AssemblyInfoInputs.cache
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.AssemblyInfo.cs
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.dll
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\refint\EventBus.Messages.dll
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\EventBus.Messages.pdb
+C:\Users\hfara\Desktop\MTWireguard\RabbitMq\EventBus.Messages\obj\Debug\net8.0\ref\EventBus.Messages.dll
